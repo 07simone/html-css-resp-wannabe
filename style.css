@@ -95,12 +95,13 @@ img {
   #lezioni .row .right{
     width: 100%;
   }
+  #steps .row .left,
+  #steps .row .central,
+  #steps .row .right{
+    width: 100%;
+  }
 
   #why{
     background-color: rgba(219, 219, 39, 0.432);
   }
-    
-
-  
-  
 }
